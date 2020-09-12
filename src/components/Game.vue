@@ -126,12 +126,12 @@
     "bank bank bank";
   /* background-image: linear-gradient(-30deg, #E9C46A, #F4A261); */
   /* border: 3px solid grey; */
-  background: red/* #70e1f5; /* fallback for old browsers */
-  /* background: linear-gradient(
+  background: #70e1f5; /* fallback for old browsers */
+  background: linear-gradient(
     135deg,
     #DBD5AD,
     #9EDCD5
-  ) */
+  )
   ;
 
   border-radius: 3em;
